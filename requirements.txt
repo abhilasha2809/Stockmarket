@@ -12,3 +12,4 @@ tzdata==2025.2
 urllib3==2.5.0
 whitenoise==6.9.0
 psycopg2
+dj_database_url
